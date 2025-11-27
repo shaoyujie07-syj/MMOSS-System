@@ -1,0 +1,20 @@
+id,name,category,subcategory,brand,description,price,memberPrice,stock,expiry,ingredients,storage,allergens
+E1001,Wireless Mouse 2 4G,Electronics,Accessories,MonashTech,Ergonomic wireless mouse 1600DPI,24.90,19.90,76,,,,
+E1002,USB C Charger 65W,Electronics,Chargers,VoltPlus,GaN fast charger with PD PPS,39.90,32.90,60,,,,
+E1003,Noise Cancelling Headphones,Electronics,Audio,SonicWave,Over ear ANC headphones,129.00,109.00,30,,,,
+B2001,Intro to Java 17,Books,Programming,CampusPress,Beginner friendly Java guide,49.90,42.90,40,,,,
+B2002,Data Structures in Practice,Books,Programming,CSWorks,Practical data structures workbook,59.90,49.90,35,,,,
+B2003,Clean Code Workbook,Books,Software,CraftLab,Exercises for writing clean code,39.90,33.90,45,,,,
+BE3001,Hydrating Face Cream 50ml,Beauty,Skincare,GlowLab,Daily hydrating cream,29.90,24.90,70,,,,
+BE3002,SPF50 Sunscreen 100ml,Beauty,Suncare,SunShield,Broad spectrum sunscreen,22.90,18.90,90,,,,
+BE3003,Lip Balm Mint 4g,Beauty,Lip Care,FreshMint,Nourishing mint lip balm,6.90,5.50,120,,,,
+P4001,Electric Toothbrush,Personal Care,Oral Care,BrightSmile,Rechargeable sonic toothbrush,59.90,49.90,25,,,,
+P4002,Shampoo Gentle 400ml,Personal Care,Hair Care,SoftCare,Gentle daily shampoo,12.90,10.90,100,,,,
+P4003,Body Wash 500ml,Personal Care,Bath,SoftCare,Mild body wash,11.90,9.90,100,,,,
+F5001,Granola Honey Almond 500g,Food,Breakfast,GoodGrain,Crunchy granola with nuts,8.90,7.50,80,2026-05-10,oats;almonds;honey;oil,Keep in cool dry place,tree nuts
+F5002,Pasta Fusilli 1kg,Food,Pantry,Italo,Durum wheat pasta,4.90,4.20,120,2027-01-01,durum wheat,Store in a cool dry place,gluten
+F5003,Chocolate Dark 85pct 100g,Food,Snacks,CacaoArt,Rich dark chocolate bar,3.90,3.30,150,2026-02-20,cocoa mass;sugar;cocoa butter;soy lecithin,Keep cool and dry,soy
+BV6001,Green Tea Bags 50pk,Beverages,Tea,Leaf&Leaf,Delicate green tea,6.50,5.50,110,2026-08-15,green tea,Store in a cool dry place,
+BV6002,Arabica Coffee Beans 1kg,Beverages,Coffee,RoastWorks,Single origin medium roast,24.00,20.00,60,2026-12-01,coffee beans,Keep sealed in cool dry place,
+BV6003,Orange Juice 1L,Beverages,Juice,SunValley,Not from concentrate,3.20,2.80,90,2025-12-30,orange juice,Keep refrigerated after opening,
+

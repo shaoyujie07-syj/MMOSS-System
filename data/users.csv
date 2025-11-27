@@ -1,0 +1,4 @@
+email,password,firstName,lastName,mobile,role
+student@student.monash.edu,Monash1234!,Student,User,0400000001,CUSTOMER
+staff@monash.edu,Monash1234!,Staff,User,0400000002,CUSTOMER
+admin@monash.edu,Admin1234!,Admin,User,0400000000,ADMIN
