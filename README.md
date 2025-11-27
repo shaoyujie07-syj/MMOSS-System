@@ -1,4 +1,4 @@
-# FIT5136 Assignment 3 – MMOSS System (Final Version)
+# MMOSS System (Final Version)
 
 ## 🏪 Project Overview
 The **Monash Multi-Option Shopping System (MMOSS)** is a complete e-commerce simulation system that enables users to register, log in, browse products, manage carts, make purchases, apply promo codes, and maintain memberships.  
